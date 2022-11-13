@@ -81,7 +81,7 @@ async function loadProjects() {
 
     document.getElementById('close').addEventListener("click", close);
 
-    let responseProjects = await fetch('projects.json');
+    let responseProjects = await fetch('https://lukuxdev.github.io/portfolio-website-js2/projects.json');
     projects = await responseProjects.json();
     let responseGithub = await fetch('https://api.github.com/users/LukuxDev/repos');
     let github = await responseGithub.json();
