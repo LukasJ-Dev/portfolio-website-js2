@@ -5,28 +5,28 @@
         "size": "large",
         "shortDescription": "Minesweeper game made during lesson.",
         "longDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, tempora vero officia fugit tenetur dolor voluptatum commodi adipisci mollitia quos rem neque soluta itaque, dolorum maiores aliquam quod quidem est eum a at aliquid amet! Possimus cumque optio veniam eveniet nostrum deserunt quam similique minima doloremque repellat delectus assumenda impedit sunt voluptatibus fuga maiores laudantium maxime, ex a debitis, qui ad? Ab a vel sunt ad, iure quas aperiam itaque nam fuga non aspernatur porro inventore odit dolor esse sit nihil veritatis. Quasi sequi accusamus voluptatibus laboriosam qui doloremque quaerat praesentium tempore fuga sed minus, eligendi nesciunt fugiat adipisci voluptates?",
-        "img": "../img/yatzy-img.png"
+        "img": "./img/yatzy-img.png"
     },
     {
         "hasGithub": false,
         "title": "Yahtzee Game",
         "shortDescription": "Yahtzee was developed as a school project in webbutveckling 1 and gränssnittdesign during the last year of gymnasium. The game is developed with react and you can play up to 9 players. The UI is minimalistic and uses CSS without any frameworks.",
         "longDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, tempora vero officia fugit tenetur dolor voluptatum commodi adipisci mollitia quos rem neque soluta itaque, dolorum maiores aliquam quod quidem est eum a at aliquid amet! Possimus cumque optio veniam eveniet nostrum deserunt quam similique minima doloremque repellat delectus assumenda impedit sunt voluptatibus fuga maiores laudantium maxime, ex a debitis, qui ad? Ab a vel sunt ad, iure quas aperiam itaque nam fuga non aspernatur porro inventore odit dolor esse sit nihil veritatis. Quasi sequi accusamus voluptatibus laboriosam qui doloremque quaerat praesentium tempore fuga sed minus, eligendi nesciunt fugiat adipisci voluptates?",
-        "img": "../img/yatzy-img.png",
-        "gameLink": "/yatzy/index.html"
+        "img": "./img/yatzy-img.png",
+        "gameLink": "./yatzy/index.html"
     },
     {
         "hasGithub": false,
         "title": "LWJGL Snake",
         "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, tempore?.",
         "longDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, tempora vero officia fugit tenetur dolor voluptatum commodi adipisci mollitia quos rem neque soluta itaque, dolorum maiores aliquam quod quidem est eum a at aliquid amet! Possimus cumque optio veniam eveniet nostrum deserunt quam similique minima doloremque repellat delectus assumenda impedit sunt voluptatibus fuga maiores laudantium maxime, ex a debitis, qui ad? Ab a vel sunt ad, iure quas aperiam itaque nam fuga non aspernatur porro inventore odit dolor esse sit nihil veritatis. Quasi sequi accusamus voluptatibus laboriosam qui doloremque quaerat praesentium tempore fuga sed minus, eligendi nesciunt fugiat adipisci voluptates?",
-        "img": "../img/snake-img.png"
+        "img": "./img/snake-img.png"
     },
     {
         "hasGithub": false,
         "title": "Vanilla JS Todolist App",
         "shortDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, tempore?.",
         "longDescription": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Accusantium, tempora vero officia fugit tenetur dolor voluptatum commodi adipisci mollitia quos rem neque soluta itaque, dolorum maiores aliquam quod quidem est eum a at aliquid amet! Possimus cumque optio veniam eveniet nostrum deserunt quam similique minima doloremque repellat delectus assumenda impedit sunt voluptatibus fuga maiores laudantium maxime, ex a debitis, qui ad? Ab a vel sunt ad, iure quas aperiam itaque nam fuga non aspernatur porro inventore odit dolor esse sit nihil veritatis. Quasi sequi accusamus voluptatibus laboriosam qui doloremque quaerat praesentium tempore fuga sed minus, eligendi nesciunt fugiat adipisci voluptates?",
-        "img": "../img/todolist-img.png"
+        "img": "./img/todolist-img.png"
     }
 ]
