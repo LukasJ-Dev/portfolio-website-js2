@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/scripts.js"></script>
+    <title>Projects</title>
+</head>
+<body onload="loadProjects()">
+
+    <nav>
+        <h1>Lukas</h1>
+        <input type="checkbox" class="nav-menu">
+        
+        <div class="nav-links">
+            <a href="../index.html">Home</a>
+            <a href="../about.html">About</a>
+            <a href="#" class="active">Projects</a>
+            <a href="../cv.html">CV</a>
+            
+        </div>
+        
+    </nav>
+
+    <main class="container">
+
+        <br>
+        <h1>Projects</h1>
+        <br>
+        <div class="card-container" id="cards">
+            Loading projects...
+        </div>
+    </main>
+    <div id="modal" style="display: none;">
+        <div class="modal-card">
+            
+        <button id="close" type='button' value='close'>X</button>
+            <img src="../img/snake-img.png" alt="Image of" id="m-img">
+            <div class="container">
+                <h2 id="m-title"></h2>
+                <p id="m-description"></p>
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>
+

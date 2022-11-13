@@ -1,0 +1,40 @@
+{
+    "educations": [
+        {
+            "startYear": 2019,
+            "endYear": 2022,
+            "school": "Stockholm Science & Innovation School, Kista",
+            "education": "Teknikprogrammet med inrikting infomation- medieteknik (Gymnasium)"
+        },
+        {
+            "startYear": 2022,
+            "endYear": 2024,
+            "school": "Chas Academy",
+            "education": "Javascript Fullstackutvecklare (Yrkeshögskola)"
+        }
+    ],
+    "work": [
+        {
+            "startYear": 2019,
+            "endYear": "present",
+            "company": "Subway",
+            "job": "Extra job at my fathers store"
+        }
+    ],
+    "programmingSkills": [
+        "React",
+        "Django",
+        "Express",
+        "ASP.NET",
+        "Laravel",
+        "Spring",
+        "LWJGL (OpenGL)"
+    ],
+    "languages": [
+        "Swedish",
+        "English"
+    ],
+    "other": [
+        "Drivers licence"
+    ]
+}
